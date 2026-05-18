@@ -1,16 +1,27 @@
-# urbankicks
+# UrbanKicks
 
-A new Flutter project.
+UrbanKicks is a Flutter-based mobile shopping application for sneaker products.
 
-## Getting Started
+## Features
+- User Login & Register
+- Product Listing
+- User Management
+- MockAPI Integration
+- CRUD Data
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- MockAPI
+- HTTP Package
+- Shared Preferences
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Akid
